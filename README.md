@@ -19,3 +19,7 @@ O backend foi desenvolvido em Java pelo autor deste repositório, garantindo a c
 
 ## Como funciona
 O buscador utiliza o Elastic Search para indexar e armazenar os dados da base da Wikipedia. Os usuários interagem com a interface desenvolvida em React para enviar suas pesquisas ao backend em Java. O backend processa as consultas recebidas e retorna os resultados relevantes com base nos dados da Wikipedia, apresentando-os ao usuário de forma organizada e fácil de entender.
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se livre para usar, modificar e distribuir conforme as diretrizes da licença.
